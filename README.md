@@ -1,5 +1,5 @@
 # Dynamic_figure
-This code allow you to draw dynamic <strong>sinus fonction</strong> using matplotlib from python 3.x
+This code allow you to draw dynamic <strong>sinus fonction</strong> using matplotlib
 
 <img src="./Figure_1.png" alt="GNU/Linux" width="300" height="280"/>
 
