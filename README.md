@@ -5,6 +5,18 @@ This code allow you to plot <strong>dynamic sinus fonction</strong> using matplo
 
 # Pre-requisites
 <ul>
-  <li> import <strong>numpy</strong> module (pip install numpy)</li>
-  <li> import <strong>matplotlib</strong> module (pip install matplotlib)</li>
+  <li> import <strong>numpy</strong> module </li> 
+</ul>  
+
+```
+pip install numpy
+```
+<ul>  
+  <li> import <strong>matplotlib</strong> module</li>
 </ul>
+
+```
+pip install matplotlib
+```
+
+
